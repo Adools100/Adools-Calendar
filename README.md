@@ -29,5 +29,5 @@ Coming soon (add GitHub Pages link here if you deploy)
 1. Clone this repository
 2. git clone https://github.com/Adools100/Mini-Calendar.git
 3. Open index.html in your browser.
-4. That’s it! 
+4. git That’s it! 
 
