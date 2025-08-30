@@ -13,11 +13,6 @@ It dynamically displays the **current date, day, month, and year** in a clean, m
 
 ---
 
-## 🚀 Demo
-Coming soon (add GitHub Pages link here if you deploy)
-
----
-
 ## 🛠️ Technologies Used
 - HTML  
 - CSS  
